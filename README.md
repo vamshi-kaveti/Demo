@@ -11,4 +11,6 @@
 4) select project folder with pom.xml and click finish
 <img width="427" alt="Screenshot 2023-03-28 152615" src="https://user-images.githubusercontent.com/82515178/228200260-80cf52b3-66a6-4b4b-824c-088c133ca3a1.png">
 
-5) Run application.java as java application
+5) Run application.java as java application\
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/82515178/228209212-0a3ad9a6-2fd8-4b02-8eb2-b5c9f6934516.png">
+
